@@ -1,0 +1,12 @@
+Status	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Female1_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Female2_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Female3_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Female4_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Labium1_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Labium2_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Labium3_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Labium4_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Male1_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Male2_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Male3_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/Male4_trim3_comb_Aligned.sortedByCoord.out.bam	/agwg/margo/veronica/RNA/ALIGN_DIR/STAR_AaegL5.0/final/MH12_trim3_comb_Aligned.sortedByCoord.out.bam
+Assigned	51546638	43846377	48211938	48203843	49945225	54026550	51533368	60531198	17708946	44414083	49454055	47988731	53353754
+Unassigned_Ambiguity	801304	748789	821177	796918	653463	656305	652894	661704	393969	996512	593513	848187	861746
+Unassigned_MultiMapping	89121083	99217318	97037349	96958997	70586264	78641191	73943659	78021417	39409308	81466287	78471598	91128026	86420115
+Unassigned_NoFeatures	16199647	15265708	15524604	15236461	9842831	12122685	11089653	12828103	4611466	12817522	9272143	15117384	15199185
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Nonjunction	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0
